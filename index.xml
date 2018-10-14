@@ -2,71 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Small Business Analytics</title>
-    <link>/</link>
+    <link>https://sba.github.io/</link>
     <description>Recent content on Small Business Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2015 14:53:21 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sba.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>first</title>
-      <link>/post/first/</link>
-      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
-      
-      <guid>/post/first/</guid>
-      <description>Here is your fist post. The img value contain path to the image of this post Then place a matching image in static/img - e.g. static/img/dog.png</description>
-    </item>
     
     <item>
-      <title>second</title>
-      <link>/post/second/</link>
-      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
-      
-      <guid>/post/second/</guid>
-      <description>Override the default intro and contact backgrounds by putting images in these files:
-img/intro-bg.jpg img/contact-bg.jpg</description>
-    </item>
-    
-    <item>
-      <title>third</title>
-      <link>/post/third/</link>
+      <title>Interactive Dashboards</title>
+      <link>https://sba.github.io/post/third/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>/post/third/</guid>
-      <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
-title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
+      <guid>https://sba.github.io/post/third/</guid>
+      <description>Have you always wanted the capability to explore our data, but felt limited by the canned dashboards offered to you by your point of sales vendor? Let SBA curate the dashboard you need to improve your business.</description>
     </item>
     
     <item>
-      <title>Pricing</title>
-      <link>/pricing/pricing/</link>
-      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      <title>Deep Dives</title>
+      <link>https://sba.github.io/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>/pricing/pricing/</guid>
-      <description></description>
+      <guid>https://sba.github.io/post/second/</guid>
+      <description>Ever wondered what insights can be discovered in your data? Have a burning question about your business that you know can be answered with data but don&amp;rsquo;t have the time? Let SBA work with you to develop an analysis plan and take a deep dive in the data.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Automated Reports</title>
+      <link>https://sba.github.io/post/first/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://sba.github.io/post/first/</guid>
+      <description>Let us turn those manually maintained excel spreadsheets into cleanly formatted reports. SBA can create automated reports with your data, saving you time to run your business. These reports can even be scheduled to be emailed to you on a regular basis.</description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>/about/about/</link>
+      <link>https://sba.github.io/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>/about/about/</guid>
-      <description>SBA is a Philadelphia based analytics consulting company specializing in all sorts of analytic products for small businesses. Whether you want to stop manually updating excel spreadsheets, create automatic recurring reports, or develop an interactive dashboard to explore your data, SBA has it covered. I will work with you to understand your business and your data, help develop the business questions and ultimately create the end product. I am a programmer and data analyst with almost a decade of consutling and analytics experience.</description>
+      <guid>https://sba.github.io/about/about/</guid>
+      <description>SBA is a Philadelphia based analytics consulting company specializing in all sorts of analytic products for small businesses. Whether you want to stop manually updating excel spreadsheets, create automatic recurring reports, or develop an interactive dashboard to explore your data, SBA has it covered. I will work with you to understand your business and your data, help develop the business questions and ultimately create the end product. I am a programmer and data analyst with almost a decade of consulting and analytics experience.</description>
     </item>
     
   </channel>
